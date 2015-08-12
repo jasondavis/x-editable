@@ -694,7 +694,7 @@
                     '<': '<',
                     '>': '>',
                     '"': '"',
-                    '\'': ''',
+                    //'\'': ''',
                     '/': '/'
                 };
 
@@ -10571,23 +10571,5 @@ Automatically shown in inline mode.
     $.fn.editabletypes.dateuifield = DateUIField;
 
 }(window.jQuery));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
