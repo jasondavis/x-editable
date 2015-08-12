@@ -689,7 +689,7 @@
 
             Utils.escapeMarkup = function(markup) {
                 var replaceMap = {
-                    '\\': '\',
+                    '\\': '\/',
                     '&': '&',
                     '<': '<',
                     '>': '>',
